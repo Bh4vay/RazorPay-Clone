@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/Razorpay Clone/', // Replace with your GitHub repo name
+  base: '/RazorPay-Clone/', // Replace with your GitHub repo name
 });
